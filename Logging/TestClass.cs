@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Logging
 {
-    class TestClass
+    public class TestClass
     {
     }
 }
