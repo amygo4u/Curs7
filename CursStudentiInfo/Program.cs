@@ -15,6 +15,7 @@ namespace CursStudentiInfo
         /// <param name="args"></param>
         static void Main(string[] args)
         {
+            //Comment for github
             Logger.Instance.InitializeLogger("log.csv", System.Diagnostics.TraceLevel.Verbose, WriterTypes.CsvWriter);
             Logger.Instance.LogInfoMessage("Program started");
             Player player1 = new Player("Player1");
