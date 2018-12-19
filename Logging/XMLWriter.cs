@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Logging
 {
-    public class TestClass
+    public class XMLWriter
     {
     }
 }
